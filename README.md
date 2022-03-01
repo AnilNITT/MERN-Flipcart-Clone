@@ -54,7 +54,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Stock Management: Decrease stock of product when shipped
 
 ## Sneak Peek of Admin Dashboard 🙈 :
-![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
+![Capture](https://raw.githubusercontent.com/AnilNITT/MERN-Flipcart-Clone/master/screen/Screenshot%202022-03-01%201232.png)
 
 <table>
   <tr>
@@ -62,7 +62,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
     <td><img src="https://user-images.githubusercontent.com/64949957/153995406-45e36cbc-8d42-4416-b23a-08ad592e4ebc.jpg" alt="mockups" /></td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/153996560-bd631f30-46f0-4248-83b3-d8ce44a8f9e4.PNG" alt="mockup" /></td>
+    <td><img src="https://raw.githubusercontent.com/AnilNITT/MERN-Flipcart-Clone/master/screen/Screenshot%202022-02-28%20132223.png" alt="mockup" /></td>
     <td><img src="https://user-images.githubusercontent.com/64949957/153996577-57b1a82d-064a-49dc-9055-e2bceb854ab2.PNG" alt="mockups" /></td>
   </tr>
 </table>
